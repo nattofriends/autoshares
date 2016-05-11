@@ -1,0 +1,1 @@
+runtime\Scripts\python.exe build.py py2exe

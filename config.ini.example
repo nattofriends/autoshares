@@ -1,0 +1,7 @@
+[general]
+# Configrable in your router
+local_suffix = local.home.network
+
+[shares]
+Y = \\host\share1
+Z = \\host\share2

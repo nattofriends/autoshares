@@ -1,6 +1,6 @@
 # autoshares
 
-Somehow or other, my network shares suffer from the pecular problem where switching networks will induce them to lag Windows Explorer horribly. This throws code at the problem and proactively adds/removes the shares on network changes.
+Somehow or other, my network shares suffer from the peculiar problem where switching networks will induce them to lag Windows Explorer horribly. This throws code at the problem and proactively adds/removes the shares on network changes.
 
 Windows Vista and above.
 
